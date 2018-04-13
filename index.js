@@ -1,1 +1,3 @@
-var scooter = {y}
+function Scooter(){
+  
+}
