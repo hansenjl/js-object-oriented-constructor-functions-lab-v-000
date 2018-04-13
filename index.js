@@ -1,1 +1,1 @@
-var scooter = 
+var scooter = {y}
